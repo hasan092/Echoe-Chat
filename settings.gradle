@@ -1,0 +1,2 @@
+rootProject.name='Echoe Chat'
+include ':app'
